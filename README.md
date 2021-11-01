@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+<a href="https://www.linkedin.com/in/murilomaia/?locale=en_US"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="https://dev.to/murilomaiaa"><img alt="Blog" src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</p>
 
-<!--
-**murilomaiaa/murilomaiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Murilo. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently learning about Clean Arquitecture and test
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 &nbsp; Enthusiast in web development.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; NodeJs | Typescript | CSS | JavaScript | PHP | Java
+- 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | Angular | Ionic
+- 🛢 &nbsp; MySQL | Redis | Mongo | PostgreSql
