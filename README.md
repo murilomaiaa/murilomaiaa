@@ -3,7 +3,7 @@
 <a href="https://dev.to/murilomaiaa"><img alt="Blog" src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
-<h2> Hey there! I'm Murilo. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Murilo</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
