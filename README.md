@@ -7,12 +7,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning about Clean Arquitecture and test
+- 🔭 &nbsp; I’m currently learning about DDD and graphql
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Enthusiast in web development.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJs | Typescript | CSS | JavaScript | PHP | Java
-- 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | Angular | Ionic
-- 🛢 &nbsp; MySQL | Redis | Mongo | PostgreSql
+- 💻 &nbsp; NodeJs | Express | NestJS | Graphql 
+- 🌐 &nbsp; NextJS | TypeScript  
+- 🛢 &nbsp; Redis | Mongo | PostgreSql
